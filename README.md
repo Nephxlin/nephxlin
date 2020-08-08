@@ -1,8 +1,8 @@
 # Luther Marques Cordeiro
 
-## Olá pessoal 👋
-Sou um FullStack Developer :computer:
-Membro de Comunidades RockeatSeat e DigitalInnovation One
+## Sou um FullStack Developer :computer: Membro de Comunidades RockeatSeat e DigitalInnovation One
+
+
 
  :rocket:  &nbsp; Estou em busca de realocação no mercado de desenvolvimento web/Mobile
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end/back-end usando React.
