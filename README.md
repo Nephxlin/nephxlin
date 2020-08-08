@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**Nephxlin/nephxlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-```markdown
 <img width="auto" src="https://avatars3.githubusercontent.com/u/63278657?s=60&v=4">
 
 # Luther Marques Cordeiro
@@ -36,4 +18,3 @@ Membro de Comunidades RockeatSeat e DigitalInnovation One
 | 
 [![Gmail Badge](https://img.shields.io/badge/-luther.m.cordeiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luther.m.cordeiro@gmail.com)](mailto:tgmarinho@gmail.com)
 
-```
