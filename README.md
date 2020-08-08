@@ -1,5 +1,3 @@
-<img width="auto" src="https://avatars3.githubusercontent.com/u/63278657?s=60&v=4">
-
 # Luther Marques Cordeiro
 
 ## Olá pessoal 👋
