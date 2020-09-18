@@ -9,8 +9,18 @@
  <br/> :blush: &nbsp; Posso te ajudar com os fundamentos e noções de programação e desenvolvimento web.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto desenvolvimento e tecnologias, Sou ex-chefe de culinária asíatica ⚡Atuei em restaurantes renomado,
- <br/> e agora me inserindo no mercado de desenvolvedor buscando e melhorar minhas qualificações.
+ <br/> e agora me inserindo no mercado de desenvolvedor, e buscando melhorar minhas qualificações.
  <br/> Meus passatempo são: Jogos(Smite, LoL e Total war Series), illustração e photoshop e estudar sociologia, filosofia e economia buscando desenvolvimento pessoal.
+ 
+ ## Últimos Deploys:
+ ### Netflix UI Clone: 
+ https://netflix-clone-85fa9.web.app/
+ Deploy com FireBase
+ 
+ ###  Teste para Original.Io:
+ https://original-io-luther.herokuapp.com/
+ Deploy com Heroku
+ 
  
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LutherM.Cordeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luther-marques-cordeiro-101a731a6/)](https://www.linkedin.com/in/luther-marques-cordeiro-101a731a6/) 
 | 
