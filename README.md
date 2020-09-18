@@ -1,8 +1,6 @@
 # Luther Marques Cordeiro
 
-#### Sou um FullStack Developer :computer: Membro das Comunidades RocketSeat e DigitalInnovation One
-
-
+#### FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou em busca de realocação no mercado de desenvolvimento web/Mobile
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end/back-end usando React.
@@ -21,6 +19,9 @@
  https://original-io-luther.herokuapp.com/
  Deploy com Heroku
  
+ 
+ ## CV
+ https://resume.io/r/1Q34DE5oW
  
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LutherM.Cordeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luther-marques-cordeiro-101a731a6/)](https://www.linkedin.com/in/luther-marques-cordeiro-101a731a6/) 
 | 
