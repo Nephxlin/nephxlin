@@ -11,20 +11,6 @@
  <br/> e agora me inserindo no mercado de desenvolvedor, e buscando melhorar minhas qualificações.
  <br/> Meus passatempo são: Jogos(Smite, LoL e Total war Series), illustração e photoshop e estudar sociologia, filosofia e economia buscando desenvolvimento pessoal.
  
- ## Últimos Deploys:
- 
- 
- ###  Teste para KeyCash:
- https://keycash-luther-m-cordeiro.herokuapp.com/
- 
- ### Netflix UI Clone: 
- https://netflix-clone-85fa9.web.app/
- Deploy com FireBase
- 
- ###  Teste para Original.Io:
- https://original-io-luther.herokuapp.com/
- Deploy com Heroku
- 
  
  ## CV
  https://resume.io/r/1Q34DE5oW
