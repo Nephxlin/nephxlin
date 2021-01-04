@@ -1,8 +1,7 @@
 # Luther Marques Cordeiro
 
-#### FullStack Developer :computer:
+#### Front-end: Mobiauto :computer:
 
- :rocket:  &nbsp; Estou em busca de realocação no mercado de desenvolvimento web/Mobile
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end/back-end usando React.
  <br/> :blush: &nbsp; Posso te ajudar com os fundamentos e noções de programação e desenvolvimento web.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
