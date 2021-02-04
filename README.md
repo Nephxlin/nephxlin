@@ -6,7 +6,6 @@
  <br/> :blush: &nbsp; Posso te ajudar com os fundamentos e noções de programação e desenvolvimento web.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto desenvolvimento e tecnologias, Sou ex-chefe de culinária asíatica.
- <br/> e agora me inserindo no mercado de desenvolvedor, e buscando melhorar minhas qualificações.
  <br/> Meus passatempo são: Jogos(Smite, LoL e Total war Series), illustração e photoshop e estudar sociologia, filosofia e economia buscando desenvolvimento pessoal.
  
  
