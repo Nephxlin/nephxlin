@@ -2,7 +2,7 @@
 
 #### Front-end: Mobiauto :computer:
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end/back-end usando React.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end/back-end usando React e NodeJS.
  <br/> :blush: &nbsp; Posso te ajudar com os fundamentos e noções de programação e desenvolvimento web.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto desenvolvimento e tecnologias, Sou ex-chefe de culinária asíatica.
