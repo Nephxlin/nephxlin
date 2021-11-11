@@ -1,6 +1,6 @@
 # Luther Marques Cordeiro
 
-#### Front-end: Mobiauto :computer:
+#### Front-end: Squadra Digital :computer:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end/back-end usando React e NodeJS.
  <br/> :blush: &nbsp; Posso te ajudar com os fundamentos e noções de programação e desenvolvimento web.
