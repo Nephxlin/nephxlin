@@ -32,4 +32,3 @@ I'm Luther Marques Cordeiro, I'm a Software Developer 👨‍💻 who is passion
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
 
-"There is no patch for stupidity." - Kevin Mitnick
