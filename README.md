@@ -12,7 +12,7 @@ I'm Luther Marques Cordeiro, I'm a Software Developer 👨‍💻 who is passion
 - 🔭 I’m currently working on JavaScript, Nodejs, React apps/systems, and Solidity
 - 🌱 I’m currently learning blockchain, and always of course JS improvments
 - 💬 Ask me about: tech, music production, poker, blockchain, and cripto-currency.
-- ⚡ Technologies: Javascript, Typescript, React, Nextjs, Gatsby, Node, React-Native, NodeJS, Strapi, Dart, Flutter, Python, Shell-script
+- ⚡ Technologies: Javascript, Typescript, React, Nextjs, Go, React-Native, NodeJS, Strapi, Flutter, Python, Rust and Shell-script
 
 ![Nephxlin's github stats](https://github-readme-stats.vercel.app/api?username=nephxlin&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
 
