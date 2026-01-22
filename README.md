@@ -4,17 +4,14 @@
   <img src="https://flagcdn.com/w40/br.png" width="32" alt="Português"/>
 </p>
 
----
-
 # Luther Marques Cordeiro  
 ### Software Engineer • Full Stack • Distributed Systems • Streaming & Platforms
-
+**JavaScript · TypeScript · Node.js · React · Next.js · WebRTC · WebTorrent · FFmpeg · Go · Python · Rust · Solidity · Docker · Linux · GraphQL · Stripe · P2P Streaming · SaaS Architecture**
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/nephxlin)](https://github.com/nephxlin)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luther-marques-cordeiro-101a731a6/)](https://www.linkedin.com/in/luther-marques-cordeiro-101a731a6/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:luther.m.cordeiro@gmail.com)](mailto:luther.m.cordeiro@gmail.com)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521976635555)](https://api.whatsapp.com/send?phone=5521976635555)&nbsp;
 
----
 
 ## About Me | Sobre Mim
 
@@ -38,32 +35,15 @@
 |------------|---------------|
 | • Distributed systems & bandwidth optimization<br>• Live & VOD streaming<br>• Microservices & event-driven systems<br>• Multi-tenant SaaS architectures<br>• International payments & monetization<br>• Media processing automation | • Sistemas distribuídos e otimização de largura de banda<br>• Streaming ao vivo e sob demanda (VOD)<br>• Microserviços e sistemas orientados a eventos<br>• Arquiteturas SaaS multi-tenant<br>• Pagamentos e monetização internacionais<br>• Automação de processamento de mídia |
 
----
-
-## Tech Stack | Stack Tecnológica
-
-| Category | Technologies |
-|--------|--------------|
-| Languages | JavaScript • TypeScript • Go • Python • Rust • Solidity |
-| Frontend | React • Next.js • React Native • Flutter |
-| Backend & Infra | Node.js • Strapi • GraphQL • Docker • Linux |
-| Media & Real-Time | WebRTC • WebTorrent • HLS • FFmpeg • p2p-media-loader |
-
----
-
 ## GitHub Stats | Estatísticas
 
 ![Nephxlin's github stats](https://github-readme-stats.vercel.app/api?username=nephxlin&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
-
----
 
 ## Ask Me About | Fale Comigo
 
 | 🇺🇸 English | 🇧🇷 Português |
 |------------|---------------|
 | Streaming architectures & P2P delivery<br>Platform scalability<br>SaaS monetization strategies<br>Blockchain & crypto payments<br>Media pipelines | Arquiteturas de streaming e P2P<br>Escalabilidade de plataformas<br>Estratégias de monetização SaaS<br>Blockchain e pagamentos em cripto<br>Pipelines de mídia |
-
----
 
 ## Mindset | Mentalidade
 
