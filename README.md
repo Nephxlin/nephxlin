@@ -7,6 +7,7 @@
 # Luther Marques Cordeiro  
 ### Software Engineer • Full Stack • Distributed Systems • Streaming & Platforms
 **JavaScript · TypeScript · Node.js · React · Next.js · WebRTC · WebTorrent · FFmpeg · Go · Python · Rust · Solidity · Docker · Linux · GraphQL · Stripe · P2P Streaming · SaaS Architecture**
+--
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/nephxlin)](https://github.com/nephxlin)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luther-marques-cordeiro-101a731a6/)](https://www.linkedin.com/in/luther-marques-cordeiro-101a731a6/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:luther.m.cordeiro@gmail.com)](mailto:luther.m.cordeiro@gmail.com)&nbsp;
