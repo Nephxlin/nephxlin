@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://flagcdn.com/w40/us.png" width="32" alt="English"/>
-  &nbsp;&nbsp;
-  <img src="https://flagcdn.com/w40/br.png" width="32" alt="Português"/>
-</p>
-
 # Luther Marques Cordeiro  
 ### Software Engineer • Full Stack • Distributed Systems • Streaming & Platforms
 **JavaScript · TypeScript · Node.js · React · Next.js · WebRTC · WebTorrent · FFmpeg · Go · Python · Rust · Solidity · Docker · Linux · GraphQL · Stripe · P2P Streaming · SaaS Architecture**
