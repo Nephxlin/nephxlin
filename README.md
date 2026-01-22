@@ -32,19 +32,6 @@
 
 ![Nephxlin's github stats](https://github-readme-stats.vercel.app/api?username=nephxlin&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
 
-## Ask Me About | Fale Comigo
-
-| 🇺🇸 English | 🇧🇷 Português |
-|------------|---------------|
-| Streaming architectures & P2P delivery<br>Platform scalability<br>SaaS monetization strategies<br>Blockchain & crypto payments<br>Media pipelines | Arquiteturas de streaming e P2P<br>Escalabilidade de plataformas<br>Estratégias de monetização SaaS<br>Blockchain e pagamentos em cripto<br>Pipelines de mídia |
-
-## Mindset | Mentalidade
-
-| 🇺🇸 English | 🇧🇷 Português |
-|------------|---------------|
-| Focused on long-term scalable architectures, cost efficiency at scale, product-oriented thinking, and building global-ready systems from day one. | Foco em arquiteturas escaláveis de longo prazo, eficiência de custo em escala, pensamento orientado a produto e sistemas globais desde o primeiro dia. |
-
----
 
 📫 **Open to collaborations, consulting, and complex engineering challenges.**  
 📫 **Aberto a colaborações, consultorias e desafios complexos de engenharia.**
