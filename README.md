@@ -22,14 +22,6 @@
 
 ---
 
-## What I’m Working On | No Que Estou Trabalhando
-
-| 🇺🇸 English | 🇧🇷 Português |
-|------------|---------------|
-| • High-scale **video streaming architectures** (P2P + CDN fallback)<br>• **Real-time systems** using WebRTC, WebSockets, and media pipelines<br>• **SaaS and white-label platforms** with global monetization<br>• Media processing with **FFmpeg, HLS, multi-audio, subtitles**<br>• **Blockchain & crypto payments** (Solidity, USDT flows) | • Arquiteturas de **streaming de vídeo em larga escala** (P2P + fallback em CDN)<br>• Sistemas **em tempo real** com WebRTC, WebSockets e pipelines de mídia<br>• Plataformas **SaaS e white-label** com monetização global<br>• Processamento de mídia com **FFmpeg, HLS, múltiplas faixas de áudio e legendas**<br>• **Blockchain e pagamentos em cripto** (Solidity, USDT) |
-
----
-
 ## Areas of Expertise | Áreas de Especialidade
 
 | 🇺🇸 English | 🇧🇷 Português |
